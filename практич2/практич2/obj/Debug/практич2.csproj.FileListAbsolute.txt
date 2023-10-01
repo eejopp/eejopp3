@@ -1,0 +1,7 @@
+C:\Users\arina\source\repos\практич2\практич2\obj\Debug\практич2.csproj.AssemblyReference.cache
+C:\Users\arina\source\repos\практич2\практич2\obj\Debug\практич2.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\практич2\практич2\bin\Debug\практич2.exe.config
+C:\Users\arina\source\repos\практич2\практич2\bin\Debug\практич2.exe
+C:\Users\arina\source\repos\практич2\практич2\bin\Debug\практич2.pdb
+C:\Users\arina\source\repos\практич2\практич2\obj\Debug\практич2.exe
+C:\Users\arina\source\repos\практич2\практич2\obj\Debug\практич2.pdb
